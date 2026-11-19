@@ -55,7 +55,7 @@ Every non-trivial answer carries an **authoritative reference** to the original 
 
 ---
 
-## What's in scope (and what isn't)
+## What's in scope
 
 Everything an interview loop for an AI/ML/LLM engineering role actually tests: classical ML fundamentals, deep-learning fundamentals, transformer & LLM internals, training & fine-tuning (SFT, RLHF, DPO, GRPO, LoRA/QLoRA), inference & serving (KV cache, paged attention, speculative decoding, quantization), retrieval & RAG, agents & harnesses, evaluation & calibration, ML system design drills (10 worked), ML/AI coding (NumPy/PyTorch implementations), research discussion, behavioral.
 
