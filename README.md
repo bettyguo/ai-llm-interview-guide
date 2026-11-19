@@ -59,7 +59,7 @@ Every non-trivial answer carries an **authoritative reference** to the original 
 
 **In scope.** Everything an interview loop for an AI/ML/LLM engineering role actually tests: classical ML fundamentals, deep-learning fundamentals, transformer & LLM internals, training & fine-tuning (SFT, RLHF, DPO, GRPO, LoRA/QLoRA), inference & serving (KV cache, paged attention, speculative decoding, quantization), retrieval & RAG, agents & harnesses, evaluation & calibration, ML system design drills (10 worked), ML/AI coding (NumPy/PyTorch implementations), research discussion, behavioral.
 
-**Out of scope.** A general ML/DL course (see the peer repo [`ai-engineer-roadmap`](#peer-resources)). General SWE/algorithms LeetCode prep (see `coding-interview-university`). General system design beyond ML (see `system-design-primer`). Vendor-specific certification prep. Career coaching narratives.
+**Out of scope.** A general ML/DL course. General SWE/algorithms LeetCode prep (see `coding-interview-university`). General system design beyond ML (see `system-design-primer`). Vendor-specific certification prep. Career coaching narratives.
 
 This is interview prep. The line is intentional.
 
