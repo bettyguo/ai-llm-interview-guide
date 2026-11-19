@@ -28,7 +28,6 @@ Every non-trivial answer carries an **authoritative reference** to the original 
 - [09 — ML / AI Coding Questions](prep/09-coding/)
 - [10 — Research Discussion & Paper Deep-Dives](prep/10-research-discussion/)
 - [11 — Behavioral & Communication](prep/11-behavioral/)
-- [12 — Study Plan](prep/12-study-plan/)
 
 <!-- BUILD:TOPICS:END -->
 
