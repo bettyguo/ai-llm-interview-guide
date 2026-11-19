@@ -67,8 +67,3 @@ Every non-trivial answer must cite an authoritative source — the original pape
 
 Contested or version-dependent facts (e.g. "FlashAttention is X× faster") are stated as tradeoffs, not absolutes. Where the field has revised a popular result (Kaplan → Chinchilla scaling), the revised view is the primary one, with the older one shown for context.
 
-**See a wrong answer?** Open a [wrong-answer issue](.github/ISSUE_TEMPLATE/wrong-answer.md) — wrong answers are the highest-priority bug in this repo.
-
-
-ling: [MIT](LICENSE).
-
