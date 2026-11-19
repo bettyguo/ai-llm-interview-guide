@@ -13,39 +13,6 @@ Every non-trivial answer carries an **authoritative reference** to the original 
 
 ---
 
-## Start here — pick a plan
-
-| You are… | Plan |
-|----------|------|
-| Prepping cold, 8 weeks out | **[Default 8-week plan](study-plan/default-8-week.md)** |
-| Experienced engineer, 4 weeks out | **[4-week plan](study-plan/experienced-4-week.md)** |
-| **Interview next week** | **[1-week cram](study-plan/cram-1-week.md)** |
-| Want a daily template + weekly review checklist | [Daily template](study-plan/daily-template.md) |
-
-If you don't know which plan fits you, start with the 8-week and skip what you already know — every topic has a self-assessment quiz at the top.
-
----
-
-## Try the live mock-interview site
-
-> **▶ https://bettyguo.github.io/llm-interview-prep/** — full question bank, five study modes, runs in your browser, no signup.
-
-Reading answers is passive prep. The interview itself is active recall under time pressure — so this repo ships a companion site that drills you the same way the loop will.
-
-| Mode | What it does | When to use it |
-|------|--------------|----------------|
-| **🔎 Browse** | Search, filter, and read all 501 Qs with full answer / follow-ups / common mistakes / references. | First pass through a new topic. |
-| **🧠 Flashcards** | Spaced repetition (1d → 3d → 7d → 14d → 30d, Leitner-style). Rate yourself; cards you miss come back sooner. | Daily 15–30 min review across the cram weeks. |
-| **✅ MCQ Quiz** | Auto-generated 4-option questions where the **three distractors are the documented Common mistakes** for that question — the exact half-truths interviewers listen for. | Quick gap-finding: "do I actually know this or just recognize it?" |
-| **⏱ Mock Interview** | Timed sequence with notes textarea, model-answer reveal, self-rating 1–5, per-topic scorecard at the end. | Final week: pressure-test under realistic conditions. |
-| **🔤 Cloze** | Key terms blanked in the short answer. Click to reveal. | Cementing acronyms, formulas, named results. |
-
-Everything is **static** (no backend), **local-only** (progress in `localStorage`, no account, no analytics), and **auto-deployed** from `main` — when contributors add a question to `prep/`, the live site picks it up on the next push.
-
-→ **[Open the live site](https://bettyguo.github.io/llm-interview-prep/)** · run it offline with `python tools/build_site.py && open site/index.html` · setup details in [`site/README.md`](site/README.md).
-
----
-
 ## The topic spine
 
 <!-- BUILD:TOPICS:START -->
