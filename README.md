@@ -51,7 +51,6 @@ Every non-trivial answer carries an **authoritative reference** to the original 
 | 9 | 09 — ML / AI Coding Questions | 42 |
 | 10 | 10 — Research Discussion & Paper Deep-Dives | 23 |
 | 11 | 11 — Behavioral & Communication | 25 |
-| 12 | 12 — Study Plan | 0 |
 
 <!-- BUILD:STATS:END -->
 
@@ -75,34 +74,6 @@ Contested or version-dependent facts (e.g. "FlashAttention is X× faster") are s
 
 **See a wrong answer?** Open a [wrong-answer issue](.github/ISSUE_TEMPLATE/wrong-answer.md) — wrong answers are the highest-priority bug in this repo.
 
----
 
-## Peer resources
-
-This repo sits beside three peer repos. Each owns a distinct noun; none is parent or child.
-
-- [`ai-engineer-roadmap`](https://github.com/bettyguo/ai-engineer-roadmap) — the **breadth** of the AI engineering career path. If you don't know what to study yet, start there, then come back here for the interview gate.
-- [`harness-engineer-roadmap`](https://github.com/bettyguo/harness-engineer-roadmap) — agent & harness engineering, in depth. If your loop will probe agentic systems specifically, that repo's depth complements this one's breadth.
-- [`build-your-own-ai`](https://github.com/bettyguo/build-your-own-ai) — hands-on, from-scratch implementations. The single most reliable way to internalize the concepts on this list is to build the things.
-
----
-
-## Contributing
-
-PRs welcome. The contract: every new concept/derivation/system-design answer carries at least one authoritative reference. The validator enforces this. See [CONTRIBUTING.md](CONTRIBUTING.md) and the [PR template](.github/PULL_REQUEST_TEMPLATE.md).
-
-Common contributions:
-- **A question you were asked in a recent interview loop.** These are the highest-signal additions.
-- **A correction with a citation.** See the [wrong-answer template](.github/ISSUE_TEMPLATE/wrong-answer.md).
-- **A new system-design drill** following the canonical 6-step structure in [`prep/08-ml-system-design/README.md`](prep/08-ml-system-design/).
-
----
-
-## Maintenance
-
-Quarterly content review; shceduled automated link check; CHANGELOG updated per release. The 2026 LLM landscape drifts fast — staleness is a known risk; visible maintenance is the mitigation.
-
-## License
-
-Content: [CC-BY-4.0](LICENSE) · Tooling: [MIT](LICENSE).
+ling: [MIT](LICENSE).
 
